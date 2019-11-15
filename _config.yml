@@ -21,7 +21,7 @@
 title: からいのきょうかい
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  勉強とか仕事とかに縛られることでようやく人は人らしく生きられるんだわ。
+  莫见乎隐，莫显乎微
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://karaikyo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
